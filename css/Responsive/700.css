@@ -34,5 +34,6 @@
     grid-row: 2;
     /* background: rgb(66, 23, 151); */
     width: 100%;
+    min-height: 130vh;
   }
 }

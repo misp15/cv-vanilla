@@ -1,6 +1,6 @@
 
 let Contact = `
-<h1>Kontakt <span class="line">-------------------------</span></h1>
+<h1>Kontakt <span class="line">------------------</span></h1>
 <p>Terapivägen 18B</p>
 <p>14156 Huddinge</p>
 <p>(+46) 76 90 290 69</p>
